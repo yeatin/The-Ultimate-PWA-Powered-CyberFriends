@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Cyberpunk;
+    font-size: 5rem;
+    src: url(Cyberpunk.ttf);
+}
+
+h1 {
+    font-family: Cyberpunk, Arial;
+    font-weight: lighter;
+    color: yellow;
+    text-shadow: 0.1em 0.1em black ;
+    letter-spacing: -0.25em;
+}
+
+h2 {
+    font-weight: lighter;
+    color: black;
+    text-shadow: 0.05em 0.05em #a8a807;
+    font-weight: 500;
+    font-style: italic;
+}
