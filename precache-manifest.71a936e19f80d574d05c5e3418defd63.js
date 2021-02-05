@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26586c9665cf4cb757f27beea6603eaa",
+    "revision": "9242282adbd55fcc212cf5026c7097a1",
     "url": "/The-Ultimate-PWA-Powered-CyberFriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/The-Ultimate-PWA-Powered-CyberFriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "e5a65532d0ab905f13be",
+    "revision": "0814072d2fc8d2211e03",
     "url": "/The-Ultimate-PWA-Powered-CyberFriends/static/css/main.33dfb8ba.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/2.14d2632e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5a65532d0ab905f13be",
-    "url": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/main.9f6737ae.chunk.js"
+    "revision": "0814072d2fc8d2211e03",
+    "url": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/main.b777d083.chunk.js"
   },
   {
     "revision": "5dce791027ec48ef20e3",

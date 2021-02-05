@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/The-Ultimate-PWA-Powered-CyberFriends/precache-manifest.ddfb3a1189916021e318a98a81006037.js"
+  "/The-Ultimate-PWA-Powered-CyberFriends/precache-manifest.71a936e19f80d574d05c5e3418defd63.js"
 );
 
 self.addEventListener('message', (event) => {
