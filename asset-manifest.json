@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/The-Ultimate-PWA-Powered-CyberFriends/static/css/main.33dfb8ba.chunk.css",
-    "main.js": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/main.92c91561.chunk.js",
-    "main.js.map": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/main.92c91561.chunk.js.map",
+    "main.js": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/main.e7557f42.chunk.js",
+    "main.js.map": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/main.e7557f42.chunk.js.map",
     "runtime-main.js": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/runtime-main.a811b96c.js",
     "runtime-main.js.map": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/runtime-main.a811b96c.js.map",
     "static/css/2.3c03f26f.chunk.css": "/The-Ultimate-PWA-Powered-CyberFriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.14d2632e.chunk.js": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/2.14d2632e.chunk.js",
     "static/js/2.14d2632e.chunk.js.map": "/The-Ultimate-PWA-Powered-CyberFriends/static/js/2.14d2632e.chunk.js.map",
     "index.html": "/The-Ultimate-PWA-Powered-CyberFriends/index.html",
-    "precache-manifest.4019ff9707f769b93ca3833f047e86ab.js": "/The-Ultimate-PWA-Powered-CyberFriends/precache-manifest.4019ff9707f769b93ca3833f047e86ab.js",
+    "precache-manifest.04ba7c725a9cc8b2526e980bde794e18.js": "/The-Ultimate-PWA-Powered-CyberFriends/precache-manifest.04ba7c725a9cc8b2526e980bde794e18.js",
     "service-worker.js": "/The-Ultimate-PWA-Powered-CyberFriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/The-Ultimate-PWA-Powered-CyberFriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.33dfb8ba.chunk.css.map": "/The-Ultimate-PWA-Powered-CyberFriends/static/css/main.33dfb8ba.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.14d2632e.chunk.js",
     "static/css/main.33dfb8ba.chunk.css",
-    "static/js/main.92c91561.chunk.js"
+    "static/js/main.e7557f42.chunk.js"
   ]
 }
