@@ -1,5 +1,5 @@
 # CyberFriends
-This web app was made for my own personal practices of create-reacat-app and other web developmnent skills.
+This web app was made for my own personal practices of create-reacat-app and RWD.
 It organizes a list of robots provided by **robohash.org** and **JSONPlaceholder**.
 The robots images came from **robohash.org**, and the names and emails, **JSONPlaceholder**.
 ## Built With
