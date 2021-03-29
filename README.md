@@ -24,3 +24,4 @@ The robots images came from **robohash.org**, and the names and emails, **JSONPl
 1. Run `npm install`
 1. Run `npm start`
 1. Type the name in the input and the robot you want to find will show up
+1. The button counts the times being click and it works offline
