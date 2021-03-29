@@ -8,7 +8,7 @@ const Scroll = (props) =>{
         height: '33em',
         margin: '10px'
         }}>
-            {props.children};
+            {props.children}
         </div>
     );
 };
