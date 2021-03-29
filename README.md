@@ -14,11 +14,11 @@ The robots images came from **robohash.org**, and the names and emails, **JSONPl
 * Manifest
 * Google LightHouse
 ## Google LightHouse Scores
-1. Performance - 96
-2. Accessibility - 100
-3. Best Practices - 100
-4. SEO - 100
-5. Progressive Web App - CHECK
+* Performance - 96
+* Accessibility - 100
+* Best Practices - 100
+* SEO - 100
+* Progressive Web App - CHECK
 ## How to Start it
 1. Clone the repo
 1. Run `npm install`
