@@ -20,8 +20,6 @@ The robots images came from **robohash.org**, and the names and emails, **JSONPl
 * SEO - 100
 * Progressive Web App - CHECK
 ## How to Start it
-1. Clone the repo
-1. Run `npm install`
-1. Run `npm start`
+1. Go to https://yeatin.github.io/The-Ultimate-PWA-Powered-CyberFriends/
 1. Type the name in the input and the robot you want to find will show up
 1. The button counts the times being click and it works offline
