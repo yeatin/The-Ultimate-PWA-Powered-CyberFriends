@@ -4,7 +4,7 @@ It organizes a list of robots provided by **robohash.org** and **JSONPlaceholder
 The robots images came from **robohash.org**, and the names and emails, **JSONPlaceholder**.
 ## Built With
 * React.js
-* tachyons
+* Tachyons
 * Robohash
 * JSONplaceholder
 ## Skills Tree
